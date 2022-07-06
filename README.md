@@ -1,0 +1,2 @@
+these are the projects that i prepared as intern at BARSAN Global Logistics. I was a part of R&D ML project. 
+I gave some presentations and homeworks to some of my colleages. Templates are the homework sheets. 
